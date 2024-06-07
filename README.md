@@ -18,8 +18,8 @@
 </p>
 
 # Integrantes do Grupo
-Giovanne Charelli - RM 556223
-Maria Clara - RM 557478
+Giovanne Charelli - RM 556223 <br>
+Maria Clara - RM 557478<br>
 Vinicius Matareli - RM 555200
 
 # Vídeo Explicativo
