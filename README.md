@@ -25,5 +25,5 @@ Vinicius Matareli - RM 555200
 # Vídeo Explicativo
 <a target="_blank" href="">Assista o vídeo para mais informações!</a>
 
-<a target="_blank" href="https://www.tinkercad.com/things/jO7TnuTGRs0-gs-tinkercad/editel?sharecode=3s0yQEZSaL6r1sMVp78WtNZn-1eR35R_uLStIrcplLs"> Clique aqui para acessar o Tinkercad</a>
+<a target="_blank" href="[https://www.tinkercad.com/things/jO7TnuTGRs0-gs-tinkercad/editel?sharecode=3s0yQEZSaL6r1sMVp78WtNZn-1eR35R_uLStIrcplLs](https://www.tinkercad.com/things/2uWkKse7quu-gs-tinkercad/editel?sharecode=GkvVY0FOCu-EQd1eNx3ard7qUz5Ew1sbgOC2aXJdNY8)"> Clique aqui para acessar o Tinkercad</a>
 
