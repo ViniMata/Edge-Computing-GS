@@ -12,21 +12,9 @@
 <br>
 ![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/8139f720-7c95-47c1-8bac-053cf486ef35)
 
-
-# Requisitos
-<p>
-  Ter uma tabela com os dados que deseja manipular.
-  Ter o Python, o Pandas e o MathPlot baixado na máquina.
-  Ter o Visual Studio Code baixado.
-</p>
-
 # Instruções de Uso
 <p>
-  Clique em run python file no canto superior direito
-  ![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/40789374-6f8c-4a1a-9b31-48f3abebdd6f)
-  Assim que executar o código insira o caminho do seu arquivo .csv
-
-  <a target="_blank" href="https://youtu.be/FMPBJVXE2eA?si=-1kHIUpL_TAnF_VB">Assista o vídeo para mais informações!</a>
+ Instale nosso protótipo em boias e conecte-os a uma rede para armazenar as informações.
 </p>
 
 # Integrantes do Grupo
@@ -35,7 +23,7 @@ Maria Clara - RM 557478
 Vinicius Matareli - RM 555200
 
 # Vídeo Explicativo
-<a target="_blank" href="https://youtu.be/FMPBJVXE2eA?si=-1kHIUpL_TAnF_VB">Assista o vídeo para mais informações!</a>
+<a target="_blank" href="">Assista o vídeo para mais informações!</a>
 
 <a target="_blank" href="https://www.tinkercad.com/things/jO7TnuTGRs0-gs-tinkercad/editel?sharecode=3s0yQEZSaL6r1sMVp78WtNZn-1eR35R_uLStIrcplLs"> Clique aqui para acessar o Tinkercad</a>
 
