@@ -5,16 +5,12 @@
 
 # Solução proposta
 <p>
-  Esse programa facilitará a interpretação de dados ja existentes. Precisando que o usuário apenas tenha uma tabela feita e que ele selecione os dados que deseja comparar. Esse projeto irá facilitar a visualização do usuário de tabelas já pré-existentes para que ele possa tirar conclusões com menos trabalho.
+  Nossa solução é um sensor de distancia utilizado para mapear e enviar dados para satélites de objetos que estão em volta do protótipo. Possibilitando uma facilitação na localização de lixos para uma limpeza mais eficiente e na tomada de decisão das políticas publicas já que conseguiremos ter a informação mais detalhada da origem desses objetos.
 </p>
-
-# Exemplo do Gráfico
-<br>
-![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/8139f720-7c95-47c1-8bac-053cf486ef35)
 
 # Instruções de Uso
 <p>
- Instale nosso protótipo em boias e conecte-os a uma rede para armazenar as informações.
+ Instale nosso protótipo em boias e conecte-os a uma rede para armazenar as informações. A luz acende toda vez que detecta movimentos.
 </p>
 
 # Integrantes do Grupo
