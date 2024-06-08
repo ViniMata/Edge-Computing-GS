@@ -5,7 +5,7 @@
 
 # Solução proposta
 <p>
-  Nossa solução é um sensor de distancia utilizado para mapear e enviar dados para satélites de objetos que estão em volta do protótipo. Possibilitando uma facilitação na localização de lixos para uma limpeza mais eficiente e na tomada de decisão das políticas publicas já que conseguiremos ter a informação mais detalhada da origem desses objetos.
+  Nossa solução é um sensor de distância utilizado para mapear e enviar dados para satélites de objetos que estão em volta do protótipo. Possibilitando uma facilitação na localização de lixos para uma limpeza mais eficiente e na tomada de decisão das políticas publicas já que conseguiremos ter a informação mais detalhada da origem desses objetos.
 </p>
 
 # Instruções de Uso
