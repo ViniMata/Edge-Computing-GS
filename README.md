@@ -19,7 +19,7 @@ Maria Clara - RM 557478<br>
 Vinicius Matareli - RM 555200
 
 # Vídeo Explicativo
-<a target="_blank" href="">Assista o vídeo para mais informações!</a>
+<a target="_blank" href="https://youtu.be/3as8rMLYUC4?si=1Z53eew67l8qFnR-">Assista o vídeo para mais informações!</a>
 
 <a target="_blank" href="https://www.tinkercad.com/things/2uWkKse7quu-gs-tinkercad/editel?sharecode=GkvVY0FOCu-EQd1eNx3ard7qUz5Ew1sbgOC2aXJdNY8"> Clique aqui para acessar o Tinkercad</a>
 
